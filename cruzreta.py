@@ -95,8 +95,8 @@ ax = fig.add_subplot(111, projection = '3d')
 ax.set_xlabel('Eixo X')
 ax.set_ylabel('Eixo Y')
 ax.set_zlabel('Eixo Z')
-X = [xc2, x, xp2]
-Y = [yc2, y, yp2]
+X = [xc1, x, xp1]
+Y = [yc1, y, yp1]
 Z = [zc1, z, zp1]
 
 X2 = [xc2, x, xp2]
